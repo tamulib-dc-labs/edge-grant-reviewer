@@ -38,6 +38,11 @@ document.addEventListener("DOMContentLoaded", () => {
       let whisperElement = document.createElement("whisper-transcript");
       document.body.appendChild(whisperElement);
 
+      const vttAnchor = document.createElement("a");
+      vttAnchor.className = "text-blue-600 underline ml-4";
+      vttAnchor.target = "_blank";
+      document.body.appendChild(vttAnchor);
+
       const updateWhisperTranscript = (index: number) => {
         const selectedFile = validMediaFiles[index];
 
@@ -48,6 +53,15 @@ document.addEventListener("DOMContentLoaded", () => {
         whisperElement.setAttribute("url", selectedFile.url);
 
         document.body.appendChild(whisperElement);
+
+        if (selectedFile.vtt) {
+          vttAnchor.href = selectedFile.vtt;
+          vttAnchor.textContent = `Download the WebVTT File for ${selectedFile.name} 👀`;
+        } else {
+          vttAnchor.removeAttribute("href");
+          vttAnchor.textContent = "(No WebVTT available for Download 😢)";
+        }
+
       };
 
       dropdown.addEventListener("change", (event) => {
