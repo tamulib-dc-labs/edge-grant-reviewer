@@ -11,19 +11,27 @@ declare global {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  const controlsContainer = document.getElementById("controls-container");
+  const transcriptContainer = document.getElementById("transcript-container");
+
   fetch("./config.json")
     .then((response) => response.json())
     .then((mediaFiles: MediaFile[]) => {
       const dropdown = document.createElement("select");
       dropdown.id = "audio-dropdown";
-      dropdown.className = "border border-gray-300 rounded-lg p-2 my-4 font-serif";
+
+      const placeholder = document.createElement("option");
+      placeholder.className = "text-black";
+      placeholder.disabled = true;
+      placeholder.selected = true;
+      placeholder.textContent = "Choose an audio file...";
+      dropdown.appendChild(placeholder);
 
       function hasName(file: unknown): file is { name: string } {
         return !!file && typeof file === 'object' && 'name' in file;
       }
 
       const validMediaFiles = mediaFiles.filter(hasName);
-
       validMediaFiles.sort((a, b) => a.name.localeCompare(b.name));
 
       validMediaFiles.forEach((file, index) => {
@@ -33,45 +41,75 @@ document.addEventListener("DOMContentLoaded", () => {
         dropdown.appendChild(option);
       });
 
-      document.body.appendChild(dropdown);
+      const vttButton = document.createElement("a");
+      vttButton.className = "btn btn-primary btn-sm mt-2";
+      vttButton.target = "_blank";
+      vttButton.textContent = "Download VTT";
+
+      if (controlsContainer) {
+        const label = document.createElement("label");
+        label.className = "block text-white text-sm font-medium mb-2";
+        label.textContent = "Select Audio File:";
+
+        controlsContainer.appendChild(label);
+        controlsContainer.appendChild(dropdown);
+        controlsContainer.appendChild(vttButton);
+      }
 
       let whisperElement = document.createElement("whisper-transcript");
-      document.body.appendChild(whisperElement);
-
-      const vttAnchor = document.createElement("a");
-      vttAnchor.className = "text-blue-600 underline ml-4";
-      vttAnchor.target = "_blank";
-      document.body.appendChild(vttAnchor);
 
       const updateWhisperTranscript = (index: number) => {
         const selectedFile = validMediaFiles[index];
 
-        document.body.removeChild(whisperElement);
+        if (whisperElement && transcriptContainer?.contains(whisperElement)) {
+          transcriptContainer.removeChild(whisperElement);
+        }
 
+        // Create new Whisper JSON Viewer / Player
         whisperElement = document.createElement("whisper-transcript");
         whisperElement.setAttribute("audio", selectedFile.audio);
         whisperElement.setAttribute("url", selectedFile.url);
 
-        document.body.appendChild(whisperElement);
-
-        if (selectedFile.vtt) {
-          vttAnchor.href = selectedFile.vtt;
-          vttAnchor.textContent = `Download the WebVTT File for ${selectedFile.name} 👀`;
-        } else {
-          vttAnchor.removeAttribute("href");
-          vttAnchor.textContent = "(No WebVTT available for Download 😢)";
+        // Add it to the transcript container
+        if (transcriptContainer) {
+          transcriptContainer.innerHTML = "";
+          transcriptContainer.appendChild(whisperElement);
         }
 
+        // Update the VTT button to point at the current
+        if (selectedFile.vtt) {
+          vttButton.href = selectedFile.vtt;
+          vttButton.textContent = `Download VTT - ${selectedFile.name}`;
+          vttButton.classList.remove("btn-disabled");
+        } else {
+          vttButton.removeAttribute("href");
+          vttButton.textContent = "No VTT Available";
+          vttButton.classList.add("btn-disabled");
+        }
       };
 
+      // Update If Dropdown Is Touched
       dropdown.addEventListener("change", (event) => {
         const index = parseInt((event.target as HTMLSelectElement).value);
         updateWhisperTranscript(index);
       });
 
-      updateWhisperTranscript(0); // Set the first item as default
+      // Load the first guy
+      if (validMediaFiles.length > 0) {
+        updateWhisperTranscript(0);
+        dropdown.selectedIndex = 1; // Skip placeholder
+      }
     })
     .catch((error) => {
       console.error("Error loading media files:", error);
+
+      // If no media to load, say so
+      if (controlsContainer) {
+        controlsContainer.innerHTML = `
+          <div class="alert alert-error">
+            <span>Error loading audio files. Please check your configuration.</span>
+          </div>
+        `;
+      }
     });
 });
