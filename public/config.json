@@ -4537,12 +4537,6 @@
   },
   {
     "audio": "https://kaltura-pre.library.tamu.edu/avalon/f81ed04e-c51b-4c6c-a1c2-f66dbebe4f65/outputs/02_00113-a_01-medium.mp4/index.m3u8",
-    "url": "",
-    "vtt": "",
-    "name": "02_00113-a_01"
-  },
-  {
-    "audio": "https://kaltura-pre.library.tamu.edu/avalon/f81ed04e-c51b-4c6c-a1c2-f66dbebe4f65/outputs/02_00113-a_01-medium.mp4/index.m3u8",
     "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00113-a_01.json",
     "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00113-a_01.vtt",
     "name": "02_00113-a_01"
