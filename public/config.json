@@ -4552,5 +4552,65 @@
     "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01155_01.json",
     "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01155_01.vtt",
     "name": "02_01155_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/3221fec1-e0b2-4225-90d5-5eacf77a7aed/outputs/02_00113-b_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00113-b_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00113-b_02.vtt",
+    "name": "02_00113-b_02"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/630cb081-d103-4b39-9109-8366cbbfa110/outputs/02_00113-c_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00113-c_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00113-c_01.vtt",
+    "name": "02_00113-c_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/56a89d01-2590-4396-945c-c25982090733/outputs/02_00111-a_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00111-a_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00111-a_01.vtt",
+    "name": "02_00111-a_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/79a478a2-cf56-4cc3-a0b2-bd0271f10443/outputs/02_00111-a_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00111-a_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00111-a_02.vtt",
+    "name": "02_00111-a_02"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/9a7bbf90-7b35-41c2-bd3e-a159f38b5bbb/outputs/02_00111-b_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00111-b_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00111-b_01.vtt",
+    "name": "02_00111-b_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/c0db34bb-23d3-4aed-bcf4-930070bd8300/outputs/02_00108-a_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00108-a_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00108-a_01.vtt",
+    "name": "02_00108-a_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/7c14f437-a542-415b-a363-e237e336bd50/outputs/02_00108-a_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00108-a_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00108-a_02.vtt",
+    "name": "02_00108-a_02"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/950bfad3-323c-4642-b46c-de09f7448076/outputs/02_00108-b_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00108-b_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00108-b_01.vtt",
+    "name": "02_00108-b_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/8116359a-8b33-4382-8366-ade4ed6a97dc/outputs/02_00109-a_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00109-a_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00109-a_01.vtt",
+    "name": "02_00109-a_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/4d9cc357-cac3-407f-aca6-10cc9f910dcf/outputs/02_00109-a_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_00109-a_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_00109-a_02.vtt",
+    "name": "02_00109-a_02"
   }
 ]
