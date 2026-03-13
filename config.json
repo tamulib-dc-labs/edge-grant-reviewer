@@ -21238,5 +21238,965 @@
     "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_628_t2-medium.json",
     "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_628_t2-medium.vtt",
     "name": "Alfredo Olivera: Interview [Part 2]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ba4b64bd-ead1-4730-858e-3cc57c41f435/outputs/PQ7081.A1C542007no.629_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_629_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_629_t1-medium.vtt",
+    "name": "Osvaldo Ballina: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/274306be-ef71-4863-bf93-8cea411411d9/outputs/PQ7081.A1C542007no.629_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_629_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_629_t2-medium.vtt",
+    "name": "Osvaldo Ballina: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/58f77ec4-a53a-4d16-b0bd-22642b14c3b2/outputs/PQ7081.A1C542007no.630_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_630_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_630_t1-medium.vtt",
+    "name": "Alicia Ugarte y Guillermo Ca\u0301charo : Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/1d10816b-700c-42ea-9a96-9891c8e120d8/outputs/PQ7081.A1C542007no.630_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_630_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_630_t2-medium.vtt",
+    "name": "Alicia Ugarte y Guillermo Ca\u0301charo : Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/768e985a-55aa-4b95-a7af-f2ba19a3d399/outputs/PQ7081.A1C542007no.631_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_631_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_631_t1-medium.vtt",
+    "name": "N\u00e9stor Tirri: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/40d24521-9686-4d7c-a80b-c8854211ef93/outputs/PQ7081.A1C542007no.631_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_631_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_631_t2-medium.vtt",
+    "name": "N\u00e9stor Tirri: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/769d4078-f064-4456-92fa-3e73aa047bfe/outputs/PQ7081.A1C542007no.632_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_632_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_632_t1-medium.vtt",
+    "name": "Monica Claus: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ba67f510-2e54-4903-b2d2-51bc84a0aae7/outputs/PQ7081.A1C542007no.632_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_632_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_632_t2-medium.vtt",
+    "name": "Monica Claus: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/16973f89-25b4-4185-b810-51573f368a3c/outputs/PQ7081.A1C542007no.633_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_633_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_633_t1-medium.vtt",
+    "name": "[Elsa Bornemann. Part 1]: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a259386e-a4be-4b0f-afd0-c8faa2f5c4b9/outputs/PQ7081.A1C542007no.633_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_633_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_633_t2-medium.vtt",
+    "name": "[Elsa Bornemann. Part 1]: Interview [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/047af832-708b-484a-bd5c-5556675fb677/outputs/PQ7081.A1C542007no.634_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_634_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_634_t1-medium.vtt",
+    "name": "[Elsa Bornemann.Part 2]; Augusto Larreta: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/7bfb3f35-fcb4-4a19-9b5a-4f4cb0c2e254/outputs/PQ7081.A1C542007no.634_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_634_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_634_t2-medium.vtt",
+    "name": "[Elsa Bornemann.Part 2]; Augusto Larreta: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/af1d63fa-1282-4afa-a8ea-89d60bd21622/outputs/PQ7081.A1C542007no.635_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_635_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_635_t1-medium.vtt",
+    "name": "Mar\u00eda In\u00e9s Lagos. [Part 1]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/10e32afe-311d-4c11-a04b-2ca0a72010f6/outputs/PQ7081.A1C542007no.635_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_635_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_635_t2-medium.vtt",
+    "name": "Mar\u00eda In\u00e9s Lagos. [Part 1]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/99ffe809-ac0a-4fec-b2bc-17505d9a47bc/outputs/PQ7081.A1C542007no.636_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_636_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_636_t1-medium.vtt",
+    "name": "Mar\u00eda In\u00e9s Lagos. [Part 2]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/0bf7d6e3-6dc4-47af-a1c3-7f97c3068e79/outputs/PQ7081.A1C542007no.636_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_636_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_636_t2-medium.vtt",
+    "name": "Mar\u00eda In\u00e9s Lagos. [Part 2]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/02a0d2f8-b706-466d-9f26-7cd011eb6bed/outputs/PQ7081.A1C542007no.637_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_637_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_637_t1-medium.vtt",
+    "name": "Oscar Peyrou. [Part 1]: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/80a952e4-c884-44d8-b271-76f10752c2a5/outputs/PQ7081.A1C542007no.637_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_637_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_637_t2-medium.vtt",
+    "name": "Oscar Peyrou. [Part 1]: Interview [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/caaa9704-af24-48e2-b632-d4c793e8e03d/outputs/PQ7081.A1C542007no.638_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_638_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_638_t1-medium.vtt",
+    "name": "Oscar Peyrou. [Part 2]: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/0168ce7f-afd7-4d56-ad23-f9313a5d55d3/outputs/PQ7081.A1C542007no.638_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_638_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_638_t2-medium.vtt",
+    "name": "Oscar Peyrou. [Part 2]: Interview [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/57fc4f17-1e07-4d2a-b370-f7f612ae5d48/outputs/PQ7081.A1C542007no.639_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_639_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_639_t1-medium.vtt",
+    "name": "[Roberto Alifano.Part 1]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b26c7efe-2262-4a8f-a1ca-5efcd03eecfe/outputs/PQ7081.A1C542007no.639_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_639_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_639_t2-medium.vtt",
+    "name": "[Roberto Alifano.Part 1]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/adb65c76-9e88-4b1a-a463-705b12d5dc89/outputs/PQ7081.A1C542007no.640_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_640_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_640_t1-medium.vtt",
+    "name": "No\u00e9 Jitrik; Roberto Alifano [Part 2]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ce435a2f-23c0-42de-9823-3e07895d062d/outputs/PQ7081.A1C542007no.640_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_640_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_640_t2-medium.vtt",
+    "name": "No\u00e9 Jitrik; Roberto Alifano [Part 2]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/6b532e06-a8b8-4d66-a48c-94e6324c0cd6/outputs/PQ7081.A1C542007no.641_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_641_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_641_t1-medium.vtt",
+    "name": "Sergio Schmucler, ; Elsa Bornemann [Part 2]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a0500652-b60b-4ebc-a31f-9f54ba6aff46/outputs/PQ7081.A1C542007no.641_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_641_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_641_t2-medium.vtt",
+    "name": "Sergio Schmucler, ; Elsa Bornemann [Part 2]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/601721a0-445c-4720-b121-4e5b5c8c2285/outputs/PQ7081.A1C542007no.642_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_642_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_642_t1-medium.vtt",
+    "name": "[Elsa Bornemann.Part 2]; [Alberto Julian Perez]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a7135139-f6cf-4eea-95a0-1e801cbeda7f/outputs/PQ7081.A1C542007no.642_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_642_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_642_t2-medium.vtt",
+    "name": "[Elsa Bornemann.Part 2]; [Alberto Julian Perez]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/94b819c9-5fda-417c-8dd7-fcc99d5ca129/outputs/PQ7081.A1C542007no.643_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_643_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_643_t1-medium.vtt",
+    "name": "[Hugo Biagini]; [Mo\u0301nica Virasoro]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/740c18e7-ce77-4563-89e2-4ddfa4a02e63/outputs/PQ7081.A1C542007no.643_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_643_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_643_t2-medium.vtt",
+    "name": "[Hugo Biagini]; [Mo\u0301nica Virasoro]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ff9870d6-a0dc-43c5-8366-884e0a16bd4b/outputs/PQ7081.A1C542007no.644_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_644_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_644_t1-medium.vtt",
+    "name": "Beatriz Ferro: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/bac3a753-d25a-4960-b870-9e034b42d496/outputs/PQ7081.A1C542007no.645_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_645_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_645_t1-medium.vtt",
+    "name": "Gabriel Bellomo: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a50e7f0b-4d4a-4ae8-bd09-b4c9eae07212/outputs/PQ7081.A1C542007no.645_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_645_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_645_t2-medium.vtt",
+    "name": "Gabriel Bellomo: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/18bf6fb5-9d3e-4a20-9809-d20d8288a4bf/outputs/PQ7081.A1C542007no.646_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_646_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_646_t1-medium.vtt",
+    "name": "[Andrea Rabbit]; [Jorge Monteleon]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/74b24574-d06f-493c-9a00-42936a572c15/outputs/PQ7081.A1C542007no.646_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_646_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_646_t2-medium.vtt",
+    "name": "[Andrea Rabbit]; [Jorge Monteleon]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/86182b17-f347-4536-bf6d-2efee043a88c/outputs/PQ7081.A1C542007no.647_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_647_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_647_t1-medium.vtt",
+    "name": "[Edgardo Radovinich, part1]; [Guillermo Mina]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/80fd83a4-d2c8-446c-ae6f-6da8e5f0effd/outputs/PQ7081.A1C542007no.647_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_647_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_647_t2-medium.vtt",
+    "name": "[Edgardo Radovinich, part1]; [Guillermo Mina]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/685f9719-23c4-4cc2-a6ec-38698e2f4a21/outputs/PQ7081.A1C542007no.648_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_648_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_648_t1-medium.vtt",
+    "name": "[Guillermo Mina.2]; [Hebe Clementi]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/1e8d1aa0-32a2-4e3f-86a2-c5217c3e49c8/outputs/PQ7081.A1C542007no.648_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_648_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_648_t2-medium.vtt",
+    "name": "[Guillermo Mina.2]; [Hebe Clementi]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/03f2beae-e316-48dc-a3bc-8e7416c2733b/outputs/PQ7081.A1C542007no.649_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_649_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_649_t1-medium.vtt",
+    "name": "Francesc Herna\u0300ndez: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/478c50f0-c7fe-4681-946d-c1bb53f26c52/outputs/PQ7081.A1C542007no.649_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_649_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_649_t2-medium.vtt",
+    "name": "Francesc Herna\u0300ndez: Interview [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/d3bb1d22-15fa-4cf4-b094-d869ea879cbc/outputs/PQ7081.A1C542007no.650_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_650_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_650_t1-medium.vtt",
+    "name": "[Liliana D\u00edaz Mindurry]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/7e8dea0f-6175-4108-840b-8386d849dc01/outputs/PQ7081.A1C542007no.650_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_650_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_650_t2-medium.vtt",
+    "name": "[Liliana D\u00edaz Mindurry]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/35cda978-416f-4876-b720-b5360bc9f0c4/outputs/PQ7081.A1C542007no.651_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_651_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_651_t1-medium.vtt",
+    "name": "Igor Barreto. [Part 1]: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/6673b4da-6105-4991-9baf-350f9adbd507/outputs/PQ7081.A1C542007no.651_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_651_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_651_t2-medium.vtt",
+    "name": "Igor Barreto. [Part 1]: Interview [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/abb4ffb8-ab45-4cfd-b205-fed2cbf81401/outputs/PQ7081.A1C542007no.652_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_652_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_652_t1-medium.vtt",
+    "name": "Igor Barreto [Part 2];  Roberto Elisalde: Interviews [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/cbb4ed28-50ee-4a8e-9786-47d1cc889419/outputs/PQ7081.A1C542007no.652_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_652_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_652_t2-medium.vtt",
+    "name": "Igor Barreto [Part 2];  Roberto Elisalde: Interviews [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/4716e52d-bf84-4616-bdb8-17aef4b37e90/outputs/PQ7081.A1C542007no.653_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_653_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_653_t1-medium.vtt",
+    "name": " [Leopoldo Brizuela, 2001] : interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/622bcd88-34cb-43a1-bd62-190dccc8de55/outputs/PQ7081.A1C542007no.653_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_653_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_653_t2-medium.vtt",
+    "name": " [Leopoldo Brizuela, 2001] : interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/651f921e-7494-4764-acc9-5e5c35e9272d/outputs/PQ7081.A1C542007no.654_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_654_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_654_t1-medium.vtt",
+    "name": "[Ana Emilia Lahitte]; [Laura Nicastro]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/6ef3143d-ac91-4053-ab14-b4faaddf5c76/outputs/PQ7081.A1C542007no.654_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_654_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_654_t2-medium.vtt",
+    "name": "[Ana Emilia Lahitte]; [Laura Nicastro]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/1ed56bd1-2eec-4ddf-a52c-4750873b4bd5/outputs/PQ7081.A1C542007no.655_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_655_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_655_t1-medium.vtt",
+    "name": "[Guillermo Wiede]; [Patricia Rojas]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/7177bfe3-0935-4906-ad67-275f6aaed6a3/outputs/PQ7081.A1C542007no.655_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_655_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_655_t2-medium.vtt",
+    "name": "[Guillermo Wiede]; [Patricia Rojas]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/bd034ed2-798d-4e00-b220-1331718a6259/outputs/PQ7081.A1C542007no.656_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_656_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_656_t1-medium.vtt",
+    "name": "[Gustavo Bernstein]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/126e3e43-69c7-4343-ac64-a416dece279c/outputs/PQ7081.A1C542007no.656_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_656_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_656_t2-medium.vtt",
+    "name": "[Gustavo Bernstein]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/287c5dc1-64cd-44d9-bef0-3ac6b5e2feb3/outputs/PQ7081.A1C542007no.657_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_657_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_657_t1-medium.vtt",
+    "name": "[Mario Satz]; [Vlady Kociancich]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/4f5765e2-c1c5-4d92-8ced-f96edb6c06e5/outputs/PQ7081.A1C542007no.657_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_657_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_657_t2-medium.vtt",
+    "name": "[Mario Satz]; [Vlady Kociancich]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/5854e61e-aab5-491f-a531-d9828d7c1524/outputs/PQ7081.A1C542007no.658_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_658_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_658_t1-medium.vtt",
+    "name": "[Juan Forn]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/fdb1dff4-c122-442a-9a08-488613454c1b/outputs/PQ7081.A1C542007no.658_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_658_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_658_t2-medium.vtt",
+    "name": "[Juan Forn]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/78bf336a-0e39-41db-bd60-a1ae6d1f6312/outputs/PQ7081.A1C542007no.659_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_659_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_659_t1-medium.vtt",
+    "name": "[Gonzalo Rojas]; [Octavio Prenz, Part 1]: Interviews [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/48ec0d29-aee3-4f6f-9594-64f630a1cd04/outputs/PQ7081.A1C542007no.659_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_659_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_659_t2-medium.vtt",
+    "name": "[Gonzalo Rojas]; [Octavio Prenz, Part 1]: Interviews [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/751c2383-5aba-41a9-8993-9fa98f9b73a1/outputs/PQ7081.A1C542007no.660_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_660_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_660_t1-medium.vtt",
+    "name": "Octavio Prenz, Part 2: Interview [2001]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/408201a7-eb7c-430d-8d04-731596478966/outputs/PQ7081.A1C542007no.660_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_660_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_660_t2-medium.vtt",
+    "name": "Octavio Prenz, Part 2: Interview [2001]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a72e6d25-0750-4878-8337-0bc229911f57/outputs/PQ7081.A1C542007no.661_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_661_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_661_t1-medium.vtt",
+    "name": "Carlos P\u00e9rez[Part 1];  Luisa Futoransky, [Part 1]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/2edf1f76-55e1-4c14-af14-e1312d3e5758/outputs/PQ7081.A1C542007no.661_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_661_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_661_t2-medium.vtt",
+    "name": "Carlos P\u00e9rez[Part 1];  Luisa Futoransky, [Part 1]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/28119171-7e61-41a3-97f0-28e9a8b8e481/outputs/PQ7081.A1C542007no.662_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_662_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_662_t1-medium.vtt",
+    "name": "[Luisa Futoransky, Part 2]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/723f229a-21cb-47bf-8928-844ca166f575/outputs/PQ7081.A1C542007no.662_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_662_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_662_t2-medium.vtt",
+    "name": "[Luisa Futoransky, Part 2]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ffbb329f-6fea-43c4-91bd-32f4e378f437/outputs/PQ7081.A1C542007no.663_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_663_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_663_t1-medium.vtt",
+    "name": "Ernesto Scho\u0301o. [Part 1]: Interview [2001 rebroadcast]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a4cec311-5d27-48cd-a772-bad2aa98d8d8/outputs/PQ7081.A1C542007no.663_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_663_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_663_t2-medium.vtt",
+    "name": "Ernesto Scho\u0301o. [Part 1]: Interview [2001 rebroadcast]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/f3bb5196-77bb-499c-86b5-c3f1c304c69e/outputs/PQ7081.A1C542007no.664_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_664_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_664_t1-medium.vtt",
+    "name": "Ernesto Scho\u0301o. [Part 2]: Interview [2001 rebroadcast]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/872b91d8-d77d-4a22-9c92-49d2949d3df0/outputs/PQ7081.A1C542007no.664_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_664_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_664_t2-medium.vtt",
+    "name": "Ernesto Scho\u0301o. [Part 2]: Interview [2001 rebroadcast]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/f3800893-9e3e-4505-b939-c1c35b031d66/outputs/PQ7081.A1C542007no.665_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_665_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_665_t1-medium.vtt",
+    "name": "[Mar\u00eda de los a\u0301ngeles Rojas]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/3662d28d-a38a-478e-ad9b-f4814b6c9807/outputs/PQ7081.A1C542007no.665_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_665_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_665_t2-medium.vtt",
+    "name": "[Mar\u00eda de los a\u0301ngeles Rojas]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/2f40dfef-9182-4409-9d65-11957d193248/outputs/PQ7081.A1C542007no.666_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_666_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_666_t1-medium.vtt",
+    "name": "Constantino Andreadis Polas. [Part 2]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/13ff935f-6393-424f-8dcb-d53542fb1085/outputs/PQ7081.A1C542007no.666_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_666_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_666_t2-medium.vtt",
+    "name": "Constantino Andreadis Polas. [Part 2]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/746d8f1d-3c18-4ede-95cf-4314cfdb3561/outputs/PQ7081.A1C542007no.667_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_667_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_667_t1-medium.vtt",
+    "name": "[Lectura de textos]:  Juan Carlos Oneti and Felisberto Hernandez-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/084a7d9c-67f4-436c-92fa-ff979ee9c839/outputs/PQ7081.A1C542007no.667_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_667_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_667_t2-medium.vtt",
+    "name": "[Lectura de textos]:  Juan Carlos Oneti and Felisberto Hernandez-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/85af0d21-9baf-4d1d-82e1-6d122b3ece16/outputs/PQ7081.A1C542007no.668_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_668_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_668_t1-medium.vtt",
+    "name": "[Mar\u00eda Esther Gilio y Carlos Mar\u00eda Dom\u00ednguez]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/3aaf6878-a4a3-43c0-be74-56d067b82f3e/outputs/PQ7081.A1C542007no.668_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_668_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_668_t2-medium.vtt",
+    "name": "[Mar\u00eda Esther Gilio y Carlos Mar\u00eda Dom\u00ednguez]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/9abdc8d6-a9dc-4052-94da-8e2f5858e0fb/outputs/PQ7081.A1C542007no.669_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_669_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_669_t1-medium.vtt",
+    "name": "[Lectura de textos]: Gonzalo Rojas-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ac615704-d414-4d05-9628-41e9a85d90f6/outputs/PQ7081.A1C542007no.669_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_669_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_669_t2-medium.vtt",
+    "name": "[Lectura de textos]: Gonzalo Rojas-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/54b7ba1e-6706-450c-bbd7-ac9f337d2b38/outputs/PQ7081.A1C542007no.670_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_670_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_670_t1-medium.vtt",
+    "name": "Gustavo Bernstein; Hugo Caaman\u0303o; Adolfo de Obieta: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/753a9a6d-d818-49a7-b3e0-cac9a8de7d1d/outputs/PQ7081.A1C542007no.670_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_670_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_670_t2-medium.vtt",
+    "name": "Gustavo Bernstein; Hugo Caaman\u0303o; Adolfo de Obieta: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/c083e00f-5de7-43dc-927f-1051adb5b386/outputs/PQ7081.A1C542007no.671_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_671_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_671_t1-medium.vtt",
+    "name": "[Lectura de textos]: Poetry readings-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/49af8f57-b9fd-41d9-b214-da63c08bc5b4/outputs/PQ7081.A1C542007no.671_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_671_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_671_t2-medium.vtt",
+    "name": "[Lectura de textos]: Poetry readings-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/bf63f364-f87e-405b-85f7-5726aca83cd9/outputs/PQ7081.A1C542007no.672_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_672_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_672_t1-medium.vtt",
+    "name": "Elsa Carlevaro y Jos\u00e9 Emilio Pacheco: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/18729173-844e-4be7-a0aa-1a64631a1280/outputs/PQ7081.A1C542007no.672_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_672_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_672_t2-medium.vtt",
+    "name": "Elsa Carlevaro y Jos\u00e9 Emilio Pacheco: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/1b756a13-e90c-4e32-8485-fc07102f7dc8/outputs/PQ7081.A1C542007no.673A_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_673A_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_673A_t1-medium.vtt",
+    "name": "Pablo Queralt: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/60d4c587-f85b-4c1b-a16b-70ec2f151214/outputs/PQ7081.A1C542007no.673B_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_673B_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_673B_t1-medium.vtt",
+    "name": "Pablo Queralt: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/9a104611-d7be-4bd8-b098-77d33a7af3ba/outputs/PQ7081.A1C542007no.674_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_674_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_674_t1-medium.vtt",
+    "name": "[Josefina Semillan]: Interview"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/4a00dbcc-2989-402e-9afb-0e2e8d28c21c/outputs/PQ7081.A1C542007no.675_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_675_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_675_t1-medium.vtt",
+    "name": "[La\u0301zaro Covadlo]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/cb5b0ee3-790c-4114-812b-39b4acfdb3ec/outputs/PQ7081.A1C542007no.675_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_675_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_675_t2-medium.vtt",
+    "name": "[La\u0301zaro Covadlo]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/5597024e-235a-4d9f-bb08-c96aa57ddc6a/outputs/PQ7081.A1C542007no.676_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_676_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_676_t1-medium.vtt",
+    "name": "[Mar\u00eda H\u00e9guiz]; [Jenaro Tal\u00e9ns]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/3a93a27c-1ccc-4192-acad-7097325e8876/outputs/PQ7081.A1C542007no.676_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_676_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_676_t2-medium.vtt",
+    "name": "[Mar\u00eda H\u00e9guiz]; [Jenaro Tal\u00e9ns]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ec49821d-bb2b-4c88-9af5-3944f96666f8/outputs/PQ7081.A1C542007no.677_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_677_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_677_t1-medium.vtt",
+    "name": "Graciela Reyes. [Part 1]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/99c9f5fc-ea4a-4554-916f-702ee91187fc/outputs/PQ7081.A1C542007no.677_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_677_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_677_t2-medium.vtt",
+    "name": "Graciela Reyes. [Part 1]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/f9bff082-ad44-4cf6-9d71-c320c3b1740f/outputs/PQ7081.A1C542007no.678_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_678_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_678_t1-medium.vtt",
+    "name": "Graciela Reyes. [Part 2]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/afa3d534-69bd-4577-8a70-f8ee554e73b7/outputs/PQ7081.A1C542007no.678_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_678_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_678_t2-medium.vtt",
+    "name": "Graciela Reyes. [Part 2]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/326b51e1-447e-43ee-97e0-13ac239e8b87/outputs/PQ7081.A1C542007no.679_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_679_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_679_t1-medium.vtt",
+    "name": "Jorge Pinedo: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/bb3bf5e4-4d0e-436d-acae-833838b13a73/outputs/PQ7081.A1C542007no.679_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_679_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_679_t2-medium.vtt",
+    "name": "Jorge Pinedo: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/e730be40-63be-4c5c-83c0-dfa9987033ec/outputs/PQ7081.A1C542007no.680_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_680_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_680_t1-medium.vtt",
+    "name": "[Liliana Lukin]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/358b123d-b4ed-42dc-90cc-61b9befea889/outputs/PQ7081.A1C542007no.680_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_680_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_680_t2-medium.vtt",
+    "name": "[Liliana Lukin]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/6056d10f-e66e-4be1-93de-b4ade37d7e4e/outputs/PQ7081.A1C542007no.681_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_681_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_681_t1-medium.vtt",
+    "name": "Jose Plaja: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/4036ad3a-5a7a-43eb-a907-d6c0ebe0c86f/outputs/PQ7081.A1C542007no.681_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_681_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_681_t2-medium.vtt",
+    "name": "Jose Plaja: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a5144a34-4012-4110-aa26-71374448e02d/outputs/PQ7081.A1C542007no.682_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_682_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_682_t1-medium.vtt",
+    "name": "[Lectura de textos]: Dino Buzzati-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/178af5f2-f312-4c00-adde-0526c8264348/outputs/PQ7081.A1C542007no.682_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_682_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_682_t2-medium.vtt",
+    "name": "[Lectura de textos]: Dino Buzzati-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/e0ed71a9-7c50-4c77-81f3-61e68814be82/outputs/PQ7081.A1C542007no.683_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_683_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_683_t1-medium.vtt",
+    "name": "Ricardo Ibarluc\u00eda; Mari\u0301a Ange\u0301lica Bosco: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/382dfeca-c185-4efb-b37a-0a7d2b2876c2/outputs/PQ7081.A1C542007no.683_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_683_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_683_t2-medium.vtt",
+    "name": "Ricardo Ibarluc\u00eda; Mari\u0301a Ange\u0301lica Bosco: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/55591cae-5ad1-456e-96db-486f2d0c039d/outputs/PQ7081.A1C542007no.684_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_684_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_684_t1-medium.vtt",
+    "name": "[Ana Mar\u00eda Bovo]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/120b040c-bbb2-47e6-a78b-c61507c96611/outputs/PQ7081.A1C542007no.684_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_684_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_684_t2-medium.vtt",
+    "name": "[Ana Mar\u00eda Bovo]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/6bbec814-1c18-448f-b320-b9015b90b5be/outputs/PQ7081.A1C542007no.685_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_685_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_685_t1-medium.vtt",
+    "name": "[Jorge Polaco] ; [David Divinsky] ; [Daniel Calmels]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/2e8a4aef-539d-4baf-a910-d8e796b40417/outputs/PQ7081.A1C542007no.685_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_685_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_685_t2-medium.vtt",
+    "name": "[Jorge Polaco] ; [David Divinsky] ; [Daniel Calmels]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/85207125-4e29-497b-af3f-9daef4c3328b/outputs/PQ7081.A1C542007no.686_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_686_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_686_t1-medium.vtt",
+    "name": "[Ricardo Barbetti]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/e79efa61-6276-4cce-9d75-d79914a269e4/outputs/PQ7081.A1C542007no.686_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_686_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_686_t2-medium.vtt",
+    "name": "[Ricardo Barbetti]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/034fb619-2e3f-4501-b639-69b3cee10b93/outputs/PQ7081.A1C542007no.687_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_687_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_687_t1-medium.vtt",
+    "name": "[Tulio Galantini]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/e2c46003-49ae-4fee-b2e7-92232d76624f/outputs/PQ7081.A1C542007no.687_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_687_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_687_t2-medium.vtt",
+    "name": "[Tulio Galantini]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/5f1bd443-a85c-4a11-9a1a-0be0ca98232b/outputs/PQ7081.A1C542007no.688_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_688_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_688_t1-medium.vtt",
+    "name": "[Alberto Campos Carl\u00e9s]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/5fea43be-ad67-4769-8538-60997c2ea70b/outputs/PQ7081.A1C542007no.688_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_688_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_688_t2-medium.vtt",
+    "name": "[Alberto Campos Carl\u00e9s]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/24aa0d96-056a-48fe-b251-19e20c70ed6f/outputs/PQ7081.A1C542007no.689_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_689_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_689_t1-medium.vtt",
+    "name": "Leonor Arfuch: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/c95f78cf-5889-4799-84f5-121289a5296e/outputs/PQ7081.A1C542007no.689_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_689_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_689_t2-medium.vtt",
+    "name": "Leonor Arfuch: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/45bb8074-33d2-486c-98d6-7b506c6c11da/outputs/PQ7081.A1C542007no.690_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_690_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_690_t1-medium.vtt",
+    "name": "[Ana Padovani]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/8fd2c767-993e-424f-91bf-de6e47419951/outputs/PQ7081.A1C542007no.690_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_690_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_690_t2-medium.vtt",
+    "name": "[Ana Padovani]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/9b0cc3ba-ee41-4873-98e0-171de535d34f/outputs/PQ7081.A1C542007no.691_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_691_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_691_t1-medium.vtt",
+    "name": "[Yolanda Pantin]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/e740b3a6-e9ef-4c34-99e4-c01f2a835df2/outputs/PQ7081.A1C542007no.691_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_691_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_691_t2-medium.vtt",
+    "name": "[Yolanda Pantin]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/4c65518a-159f-4aa0-a283-74f216e4ac13/outputs/PQ7081.A1C542007no.693_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_693_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_693_t1-medium.vtt",
+    "name": "[Diego Manso]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b7fd7f29-5271-4206-b7a7-0d553ffc9f6f/outputs/PQ7081.A1C542007no.693_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_693_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_693_t2-medium.vtt",
+    "name": "[Diego Manso]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b93022c4-835f-43f6-8757-9478d3920daf/outputs/PQ7081.A1C542007no.694_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_694_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_694_t1-medium.vtt",
+    "name": "Ewa Stala: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/61eeca74-085b-425c-9758-7c9af53f451f/outputs/PQ7081.A1C542007no.694_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_694_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_694_t2-medium.vtt",
+    "name": "Ewa Stala: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a31d7039-d405-4cc8-b7fc-95cfdef466de/outputs/PQ7081.A1C542007no.695_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_695_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_695_t1-medium.vtt",
+    "name": "[Julio Villa]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b63eda6b-bf6d-43f9-8b50-7b4fb40a9dad/outputs/PQ7081.A1C542007no.695_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_695_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_695_t2-medium.vtt",
+    "name": "[Julio Villa]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/1eaac5df-d4a3-4ad2-bcd1-a6b9fc7e1d75/outputs/PQ7081.A1C542007no.696_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_696_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_696_t1-medium.vtt",
+    "name": "[Gabriela Stoppelman]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/91f905ae-13be-4be9-ae5f-4ddc74c37c7e/outputs/PQ7081.A1C542007no.696_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_696_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_696_t2-medium.vtt",
+    "name": "[Gabriela Stoppelman]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/6465aaa6-acfd-4a20-9782-991298c9f19d/outputs/PQ7081.A1C542007no.697_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_697_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_697_t1-medium.vtt",
+    "name": "[Mar\u00eda H\u00e9guiz]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/918bf14b-9ea8-4e62-a67c-6b08dfb5249f/outputs/PQ7081.A1C542007no.697_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_697_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_697_t2-medium.vtt",
+    "name": "[Mar\u00eda H\u00e9guiz]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ff0cfb9e-c36e-4d32-83dd-bee1cc0e6a31/outputs/PQ7081.A1C542007no.698_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_698_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_698_t1-medium.vtt",
+    "name": "Fernanda Gil Lozano: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b6e76a68-9d9c-4be0-8e09-30c3f6cc14a3/outputs/PQ7081.A1C542007no.698_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_698_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_698_t2-medium.vtt",
+    "name": "Fernanda Gil Lozano: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/9cbc489f-ef58-49d1-bcaf-85ca2a0fd11a/outputs/PQ7081.A1C542007no.699_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_699_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_699_t1-medium.vtt",
+    "name": "Daniel Jacubovich. [Part 1]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/48b2dbe9-c508-4117-948b-3b5c4dd36fbf/outputs/PQ7081.A1C542007no.699_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_699_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_699_t2-medium.vtt",
+    "name": "Daniel Jacubovich. [Part 1]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/4676e79a-1764-44cf-8ac9-84dc30ba101c/outputs/PQ7081.A1C542007no.700_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_700_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_700_t1-medium.vtt",
+    "name": "Daniel Jacubovich. [Part 2]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/51f392fd-8f46-4a7b-8fba-a2e201e8724e/outputs/PQ7081.A1C542007no.700_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_700_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_700_t2-medium.vtt",
+    "name": "Daniel Jacubovich. [Part 2]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/153e06cf-965b-4580-b593-e679d53b2b63/outputs/PQ7081.A1C542007no.701_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_701_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_701_t1-medium.vtt",
+    "name": "[Luis Gusma\u0301n]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/3ad97b73-75f4-4ea6-b170-ec3cf5947bbc/outputs/PQ7081.A1C542007no.701_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_701_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_701_t2-medium.vtt",
+    "name": "[Luis Gusma\u0301n]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/c1ccea41-f32d-48b7-956f-19c5d743bd86/outputs/PQ7081.A1C542007no.702_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_702_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_702_t1-medium.vtt",
+    "name": "[Carina Paz]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/814ea8a9-d231-4815-9c1d-1ba8278f1c5f/outputs/PQ7081.A1C542007no.702_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_702_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_702_t2-medium.vtt",
+    "name": "[Carina Paz]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/1af387a3-b8be-4ec7-a8bb-344c031cc431/outputs/PQ7081.A1C542007no.703_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_703_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_703_t1-medium.vtt",
+    "name": "[Juan Jos\u00e9 Sebreli]: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/55a33034-2b56-4f99-8c8b-477e9da09ad0/outputs/PQ7081.A1C542007no.703_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_703_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_703_t2-medium.vtt",
+    "name": "[Juan Jos\u00e9 Sebreli]: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/ae003f14-4ddd-4aaf-803e-8f9ccc884efd/outputs/PQ7081.A1C542007no.704_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_704_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_704_t1-medium.vtt",
+    "name": "[Alejandra Ramos]; [Cristina Villanueva]: Interviews with recitation by Horacio Armani-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/15c8056e-7878-4c2d-9d0d-e502ca4b376c/outputs/PQ7081.A1C542007no.704_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_704_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_704_t2-medium.vtt",
+    "name": "[Alejandra Ramos]; [Cristina Villanueva]: Interviews with recitation by Horacio Armani-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/5fea901e-ecc4-4ccb-8328-df410422aecf/outputs/PQ7081.A1C542007no.706_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_706_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_706_t1-medium.vtt",
+    "name": "[Albino Go\u0301mez and Mario Pujo]: Interviews-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/18a99904-7154-456c-aa46-5901fd1403a1/outputs/PQ7081.A1C542007no.706_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_706_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_706_t2-medium.vtt",
+    "name": "[Albino Go\u0301mez and Mario Pujo]: Interviews-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/252db8f4-c768-41bc-99d7-4c2ec57e3799/outputs/PQ7081.A1C542007no.707_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_707_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_707_t1-medium.vtt",
+    "name": "Alvaro Abo\u0301s. [Part 1]; Juan Sasturain: Interviews [2002]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/a187fbc8-90f0-4f5c-8419-5cf02f34b7e5/outputs/PQ7081.A1C542007no.707_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_707_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_707_t2-medium.vtt",
+    "name": "Alvaro Abo\u0301s. [Part 1]; Juan Sasturain: Interviews [2002]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/466e9841-e361-4243-8cce-2b108dde19bf/outputs/PQ7081.A1C542007no.708_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_708_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_708_t1-medium.vtt",
+    "name": "Alvaro Abo\u0301s. [Part 2]: Interview [2002]-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/8e526f1c-d864-4a3d-8afb-5ab6aef48382/outputs/PQ7081.A1C542007no.708_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_708_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_708_t2-medium.vtt",
+    "name": "Alvaro Abo\u0301s. [Part 2]: Interview [2002]-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b9e8f322-d296-4a76-85b9-f20227692e8f/outputs/PQ7081.A1C542007no.709_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_709_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_709_t1-medium.vtt",
+    "name": "Edgard Bayley y Mario Satz: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/29a58ecb-27f9-42c4-bdcf-b9efabb8a662/outputs/PQ7081.A1C542007no.709_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_709_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_709_t2-medium.vtt",
+    "name": "Edgard Bayley y Mario Satz: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b75a9fb2-7d2d-424e-920f-9bbf089e6d09/outputs/PQ7081.A1C542007no.710_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_710_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_710_t1-medium.vtt",
+    "name": "Carlos Fuentes (Lee) y [Juan] Gelman: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/bf38d5e9-8c4b-4ac8-9b35-a3dcf53f2acc/outputs/PQ7081.A1C542007no.710_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081_A1C542007no_710_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081_A1C542007no_710_t2-medium.vtt",
+    "name": "Carlos Fuentes (Lee) y [Juan] Gelman: Interview-2"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/38413ba5-059a-412f-81d3-bc1e4c5a9ba6/outputs/PQ7081A1C542007no069_t1-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081A1C542007no069_t1-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081A1C542007no069_t1-medium.vtt",
+    "name": "Ricardo Forster: Interview-1"
+  },
+  {
+    "audio": "https://kaltura.library.tamu.edu/avalon/b3cb965a-774f-4056-be8b-7881c577668b/outputs/PQ7081A1C542007no069_t2-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081A1C542007no069_t2-medium.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081A1C542007no069_t2-medium.vtt",
+    "name": "Ricardo Forster: Interview-2"
   }
 ]
