@@ -22282,5 +22282,11 @@
     "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/PQ7081A1C542007no023_t1-medium.json",
     "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/PQ7081A1C542007no023_t1-medium.vtt",
     "name": "Justo Piernes & La Glotis Band Interviews-3"
-  }
+  },
+  {
+    "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/59/pages/page_0/files/c000507_006_019_access.mp3",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/c000507_006_019_access_turbo.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/c000507_006_019_access_turbo.vtt",
+    "name": "World building (Science Fiction Radio Show)"
+}
 ]
