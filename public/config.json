@@ -22285,7 +22285,7 @@
   },
   {
     "audio": "https://kaltura.library.tamu.edu/avalon/3e85daf8-274d-4c0f-ad78-935f030edf2c/outputs/c000507_006_019_access-medium.mp4/index.m3u8",
-    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/c000507_006_019_access_turbo.json",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/c000507_006_019_access_turbo.json",
     "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/c000507_006_019_access_turbo.vtt",
     "name": "World building (Science Fiction Radio Show)"
 }
