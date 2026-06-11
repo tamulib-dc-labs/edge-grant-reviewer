@@ -14272,5 +14272,77 @@
     "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01221-b_01.json",
     "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01221-b_01.vtt",
     "name": "02_01221-b_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/51824549-1e5f-4077-919d-b1ee691653c4/outputs/Lauren_H-a_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01223-a_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01223-a_01.vtt",
+    "name": "02_01223-a_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/217e1039-d6fd-4588-a398-6a3d3775f1fd/outputs/Lauren_H-a_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01223-a_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01223-a_02.vtt",
+    "name": "02_01223-a_02"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/d6c966cf-c08e-433f-85ec-34f4a9920d4f/outputs/Lauren_H-b_01-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01223-b_01.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01223-b_01.vtt",
+    "name": "02_01223-b_01"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/c3b355fa-a4e0-46ea-8270-8052391435ce/outputs/Lauren_H-b_02-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01223-b_02.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01223-b_02.vtt",
+    "name": "02_01223-b_02"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/47aefec0-c49e-4584-865d-09a438a6c27a/outputs/Ayo_Aina-a-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01224-a.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01224-a.vtt",
+    "name": "02_01224-a"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/813dfc8a-fbf9-4b85-bcb9-479da6cae718/outputs/Ayo_Aina-b-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01224-b.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01224-b.vtt",
+    "name": "02_01224-b"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/43aa0338-16f7-4e8e-91c1-09708d637a68/outputs/Angela_Hudson-a-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01225-a.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01225-a.vtt",
+    "name": "02_01225-a"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/cddaaabb-5487-43d3-ae61-887f15f95f22/outputs/Angela_Hudson-b-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01225-b.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01225-b.vtt",
+    "name": "02_01225-b"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/e679db39-8cee-48a4-a95d-07c65ee1169f/outputs/Pierre_Catala-a-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01225-a.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01225-a.vtt",
+    "name": "02_01226-a"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/595b295e-fbff-4180-9781-a798792564da/outputs/Pierre_Catala-b-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01226-b.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01226-b.vtt",
+    "name": "02_01226-b"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/71c5c3a3-2c93-498a-948f-1c2c2e0fd677/outputs/Cliff_Lamb-a-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01227-a.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01227-a.vtt",
+    "name": "02_01227-a"
+  },
+  {
+    "audio": "https://kaltura-pre.library.tamu.edu/avalon/71c5c3a3-2c93-498a-948f-1c2c2e0fd677/outputs/Cliff_Lamb-a-medium.mp4/index.m3u8",
+    "url": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/json/02_01227-b.json",
+    "vtt": "https://tamulib-dc-labs.github.io/edge-grant-json-and-vtts/vtts/02_01227-b.vtt",
+    "name": "02_01227-b"
   }
 ]
